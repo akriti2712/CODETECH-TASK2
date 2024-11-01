@@ -20,13 +20,20 @@ KEY ACTIVITIES:-
 The key activities for a to-do list application with local storage focus on delivering a smooth, engaging, and efficient experience:
 
 1.Task Creation, Editing & Deletion
+
 2. Local Storage Management
-3. Real-Time Sync & State Management
-4. Task Organization & Filtering
-5. Responsive, User-Centric UI Design
-6. Progress Tracking and Status Updates
-7. Auto-Save & Data Persistence
-8. Offline Access & Sync
+ 
+2. Real-Time Sync & State Management
+ 
+3. Task Organization & Filtering
+ 
+4. Responsive, User-Centric UI Design
+ 
+5. Progress Tracking and Status Updates
+ 
+6. Auto-Save & Data Persistence
+ 
+7. Offline Access & Sync
 
 TECHNOLOGIES USED:-
 1. HTML
