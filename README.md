@@ -1,8 +1,12 @@
 Name : AKRITI SRIVASTAV
+
 Company : CODETECH IT SOLUTIONS
+
 ID : CT08DS8672
+
 Domain : FRONTEND WEB DEVELOPMENT
-Duration : Oct to Nov 2024
+
+Duration : October to November 2024
 
 Overview Of The Project
 
